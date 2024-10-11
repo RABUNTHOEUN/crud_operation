@@ -31,3 +31,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
    ```bash
    git clone https://github.com/RABUNTHOEUN/crud_operation.git
+
+### Run
+
+```node app.js ```
