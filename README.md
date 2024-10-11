@@ -35,5 +35,4 @@ Before you begin, ensure you have met the following requirements:
 ### Run
 
    ```bash
-    node app.js 
-    ```
+    node app.js
